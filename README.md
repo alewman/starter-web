@@ -4,6 +4,7 @@ This is a simple website project for
 showing how to use Git and Github together
 
 ## Introduction
+This is some more text for rebasing exampley
 
 This is example is to show different parts
 of the Git repository and various commands
